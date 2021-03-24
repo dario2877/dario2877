@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @dario2877
+- 👀 I’m interested in a part time job
+- 🌱 I’m currently learning react
